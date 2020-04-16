@@ -1,0 +1,8 @@
+appx(VIPUL,ROHIT) = 1/5
+appx(PRAMOD,ROHIT) = 2/11
+appx(RAHUL,MISHRA) = 4/11
+appx(CAR,CART) = 6/7
+appx(TURKEY,CHICKEN) = 4/13
+appx(MONEY,POVERTY) = 1/3
+appx(ROUGH,PESKY) = 0
+appx(A,A) = 1
